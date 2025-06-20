@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hpbagv3q4-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hpbagv3q4-java-springboot
